@@ -225,3 +225,9 @@ test_providers.py
 # Internal analysis artifacts (not learning material)
 analysis/
 analysis_progress.md
+
+# vscode
+.vscode/
+
+# test
+agents_output/
